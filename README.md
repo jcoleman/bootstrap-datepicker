@@ -205,6 +205,12 @@ Boolean.  Default: false
 
 Whether or not to close the datepicker immediately when a date is selected.
 
+### disableFocus
+
+Boolean.  Default: false
+
+If true, disables the input from focusing. This is useful for touch screen devices that display a keyboard on input focus.
+
 ### startView
 
 Number, String.  Default: 0, 'month'
